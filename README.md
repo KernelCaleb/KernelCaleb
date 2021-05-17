@@ -1,0 +1,4 @@
+- Hi GitHub, I’m @KernelCaleb
+- I am an Azure Systems Administrator and Security Administrator, I mainly work with PowerShell in troubleshooting VMs, servers, and cloud servives
+- I am interested in Data Science and AI, as well as all things Azure, M365, and Security/Compliance
+- Contact: Caleb.Snethen@outlook.com
