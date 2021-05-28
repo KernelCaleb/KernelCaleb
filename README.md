@@ -3,4 +3,4 @@
 - MCSE: Enterprise Admin, MCSA: Security Admin, MCSA: Azure Admin
 - I am interested in Data Science and AI, as well as all things Azure, M365, and Security/Compliance
 - Contact: I can be reached at kernel.caleb@outlook.com
-- CloudKernel.IT
+- CloudKernel.Tech
