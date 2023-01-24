@@ -2,3 +2,4 @@
 - Cloud Security Engineer, Senior System Administrator
 - CCSP, MCSE: Enterprise Administrator, MCSE: Azure Architect, MCSA: Security Administrator, MCSA: Azure Administrator, SC-200
 - HelloCloud.IT
+- OND.IS
