@@ -1,5 +1,4 @@
 - Hello GitHub, I’m @KernelCaleb
-- Cloud Security Engineer, Senior System Administrator
+- Cloud Security Engineer
 - CCSP, MCSE: Enterprise Administrator, MCSE: Azure Architect, MCSA: Security Administrator, MCSA: Azure Administrator, SC-200
 - HelloCloud.IT
-- OND.IS
