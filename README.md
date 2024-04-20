@@ -6,4 +6,4 @@ I am Cloud Security Engineer focusing on the Microsoft Security Suite and the Az
 - Microsoft Security Architect, Azure Architect, Enterprise Administrator
 
 ### Links
-http://MISCONFIGURED.IO
+MISCONFIGURED.io
