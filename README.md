@@ -2,6 +2,5 @@
 
 ### About Me
 Cloud security engineer
-- CISSP, CCSP, CCSK, SC-100, SC-200
+- CISSP, CCSP, CCSK
 - Microsoft Security Architect, Azure Architect, Enterprise Administrator
-- *MISCONFIGURED.IO*
