@@ -1,4 +1,6 @@
 ## Hello GitHub!
 
 #### whoami
-Cloud security engineer.
+- Cloud security.
+- dfir.
+- kql.
