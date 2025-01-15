@@ -1,6 +1,6 @@
 ## Hello GitHub!
 
 #### whoami
-- Cloud security.
-- dfir.
-- kql.
+- Cloud security
+- dfir
+- kql
