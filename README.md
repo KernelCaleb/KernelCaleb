@@ -1,6 +1,2 @@
-## Hello GitHub!
-
-#### whoami
-- Cloud security
-- dfir
-- kql
+@GitHub:~$ whoami
+cloud security engineer
