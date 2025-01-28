@@ -1,3 +1,3 @@
-hellworld@GitHub:~$ whoami
+helloworld@GitHub:~$ whoami
 
 cloud security engineer
