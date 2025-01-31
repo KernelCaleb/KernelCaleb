@@ -1,3 +1,3 @@
 helloworld@GitHub:~$ whoami
 
-$ cloud security engineer
+cloud security engineer
