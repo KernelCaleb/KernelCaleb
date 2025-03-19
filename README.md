@@ -1,4 +1,4 @@
-helloworld@GitHub:~$ whoami
+helloworld@github:~$ whoami
 
 cloud_security_wizard
 
