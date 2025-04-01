@@ -1,3 +1,3 @@
-helloworld@github:~$ whoamii
+helloworld@github:~$ whoami
 
 cloud_security_wizard
