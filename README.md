@@ -3,7 +3,9 @@ helloworld@github:~$ whoami
 
 cloud_security_engineer
 
-helloworld@github:~$ echo $FOCUS
+helloworld@github:~$ cat focus.txt
 
-CDR, DFIR, K8s
+DFIR
+CDR
+K8s
 ```
