@@ -18,12 +18,11 @@ drwxr-xr-x  2 helloworld security 4096 May 20 09:15 azure
 drwxr-xr-x  2 helloworld security 4096 May 20 09:15 automation/
 
 helloworld@github:~$ ps aux | grep current_project
-helloworld 1337 24.0  5.2 1028932 52840 pts/0 R+   09:15   2:42 dude-where-are-my-logs
+helloworld 1337 24.0  5.2 1028932 52840 pts/0 R+   09:15   2:42 dude-wheres-my-logs
 
 helloworld@github:~$ uptime
  09:15:42 up 7 years,  1 user,  load average: 0.75, 0.60, 0.50
 
 helloworld@github:~$ echo $CONTACT
 [LinkedIn: in/calebsnethen/] [Twitter: @kernelcaleb]
-```
 ```
