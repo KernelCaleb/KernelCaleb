@@ -1,3 +1,1 @@
 Cloud Security Wizard
-
-...
