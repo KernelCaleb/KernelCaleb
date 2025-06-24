@@ -1,1 +1,1 @@
-Cloud Security Wizard
+Cloud Security Sorcerer
