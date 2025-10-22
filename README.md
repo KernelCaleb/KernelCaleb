@@ -1,1 +1,1 @@
-Cloud Security Engineer
+Cloud Security Engineer, Detection & Response
