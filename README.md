@@ -4,21 +4,12 @@
 senior security engineer @ wiz (google cloud) — detection & response · agentic soc
 ```
 
-##### `$ man kernelcaleb`
+##### `$ ls -la ~/projects`
 
 ```
-NAME
-       caleb - senior security engineer, detection & response
-
-SYNOPSIS
-       caleb [--hunt] [--detect] [--respond] [--build]
-
-DESCRIPTION
-       Builds and tunes the agents that triage cloud security
-       alerts at scale. Writes about what breaks.
-
-SEE ALSO
-       thecloud.events, misconfigured.io
+drwxr-xr-x  kernelcaleb  fantasticlogs.cloud/   # cloud events to mitre att&ck
+drwxr-xr-x  kernelcaleb  project-sonde/         # cspm cli, written in go
+drwxr-xr-x  kernelcaleb  soc-tales/             # blog series, real cloud incidents
 ```
 
 ##### `$ history | tail -5`
