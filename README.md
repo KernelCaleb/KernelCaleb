@@ -1,10 +1,10 @@
-### `$ whoami`
+##### `$ whoami`
 
 ```
 senior security engineer @ wiz (google cloud) — detection & response · agentic soc
 ```
 
-### `$ man caleb`
+##### `$ man kernelcaleb`
 
 ```
 NAME
@@ -21,7 +21,7 @@ SEE ALSO
        thecloud.events, misconfigured.io
 ```
 
-### `$ history | tail -5`
+##### `$ history | tail -5`
 
 ```
   hunt --logs cloudtrail --tactic privilege-escalation
@@ -31,7 +31,7 @@ SEE ALSO
   git push origin main
 ```
 
-### `$ cat ~/.bashrc | grep alias`
+##### `$ cat ~/.bashrc | grep alias`
 
 ```bash
 alias offhours='make bread || play golf || build lego'
